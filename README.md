@@ -2,10 +2,6 @@
 
 ## 1. Passos para começar
 
-### Clonando o Repositório
-
-`git clone https://github.com/cod3rcursos/meat-app-starter.git`
-
 ### Instalando as Dependências
 
 `npm install`
@@ -143,5 +139,5 @@ Dependências dos pacotes que devem ficar em package.json:
 ```
 
 ## Créditos
-
+cod3rcursos/meat-app-starter
 Todas as imagens usadas na aplicação são pertencentes a freepik.com
